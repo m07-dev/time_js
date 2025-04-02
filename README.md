@@ -7,6 +7,7 @@ This is a small project in JavaScript to display the current time with hours, mi
 - HTML
 - Tailwind CSS
 - JavaScript
+- Vite
 
 ## Features
 
@@ -15,9 +16,10 @@ This is a small project in JavaScript to display the current time with hours, mi
 
 ## Getting Started
 
-To get started with this project, you can clone the repository and open the `index.html` file in your browser.
+To get started with this project, you can clone the repository, install the dependencies using Vite, and run the development server.
 
 ```bash
 git clone https://github.com/m07-dev/time_js.git
 cd time_js
-open index.html
+npm install
+npm run dev
